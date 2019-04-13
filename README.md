@@ -22,6 +22,7 @@ For practical purposes, you don't have to be worried about when to use TAD class
 ##Requirements
 * Any flavour of PHP 5.4+
 * PHPUnit to execute the test suite (optional).
+* Enabled PHP Extensions: SOAP and sockets
 
 ## Supported devices
 
